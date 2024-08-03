@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1721916290 source:/home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/containers.cpp
+	"containers.h"
+
+1721916275 /home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/containers.h
+	"dominios.h"
+	"entidades.h"
+	<map>
+
+1721403761 /home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/dominios.h
+	<iostream>
+	<vector>
+	<string>
+
+1720352544 /home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/entidades.h
+	"dominios.h"
+	<string>
+
+1721916519 source:/home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/controladora.cpp
+	"controladora.h"
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	<iomanip>
+	<random>
+
+1721915185 /home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/controladora.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<iostream>
+
+1721915149 /home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/interfaces.h
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+
+1720350994 source:/home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/dominios.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<cstdlib>
+	"dominios.h"
+
+1720350994 source:/home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/entidades.cpp
+	"entidades.h"
+
+1721447366 source:/home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/main.cpp
+	<iostream>
+	<stdexcept>
+	"interfaces.h"
+	"controladora.h"
+	"stubs.h"
+
+1720728726 /home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/stubs.h
+	"interfaces.h"
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1720728646 source:/home/rodrigo/UnB/TP1/Trab2-TP1-CodeBlock/stubs.cpp
+	"stubs.h"
+
+1722643615 source:c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\containers.cpp
+	<iostream>
+	<algorithm>
+	"containers.h"
+
+1722642609 c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\containers.h
+	"dominios.h"
+	"entidades.h"
+	<map>
+
+1722216711 c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\dominios.h
+	<iostream>
+	<vector>
+	<string>
+
+1722216381 c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\entidades.h
+	"dominios.h"
+	<string>
+
+1722653767 source:c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\controladora.cpp
+	"controladora.h"
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	<iomanip>
+	<random>
+
+1722653896 c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\controladora.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<iostream>
+
+1722652752 c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\interfaces.h
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+
+1722008008 source:c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\dominios.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<cstdlib>
+	"dominios.h"
+
+1722008008 source:c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\entidades.cpp
+	"entidades.h"
+
+1722637103 source:c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\main.cpp
+	<iostream>
+	<stdexcept>
+	"interfaces.h"
+	"controladora.h"
+	"stubs.h"
+
+1722008008 c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\stubs.h
+	"interfaces.h"
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1722008008 source:c:\users\rodri\onedrive\documentos\machine learning\trab2-tp1-codeblock\stubs.cpp
+	"stubs.h"
+
